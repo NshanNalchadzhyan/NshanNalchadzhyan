@@ -7,7 +7,7 @@
     
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/NshanNalchadzhyan/configure-ad)
-  - [Inspecting Traffic Between Azure Virtual Machines](https://github.com/NshanNalchadzhyan/inspecting-traffic-between-vm's)
+  - [Inspecting Traffic Between Azure Virtual Machines](https://github.com/NshanNalchadzhyan/inspecting-traffic-between-vms)
 
 <h2>🤳Connect with me:</h2>
 
